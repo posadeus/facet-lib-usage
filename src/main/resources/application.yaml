@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: facet-lib-usage
+
+server:
+  port: 8081
