@@ -1,1 +1,0 @@
-# facet-lib-usage
